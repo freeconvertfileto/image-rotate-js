@@ -2,7 +2,7 @@
 
 Rotate and flip images by preset increments or any custom angle, with live preview, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/image-tools/image-rotate
+**Live Demo:** https://file-converter-free.com/en/image-tools/rotate-image-online-free
 
 ## How It Works
 
